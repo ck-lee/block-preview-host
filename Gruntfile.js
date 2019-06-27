@@ -19,7 +19,7 @@ module.exports = function( grunt ) {
 					} )
 				),
 				output: {
-					path: 'js/'
+					path: 'dist/'
 				}
 			},
 			'build-dev': {
